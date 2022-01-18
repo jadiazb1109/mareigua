@@ -1,5 +1,8 @@
 <?php 
 
+/**
+ * Escriba una función que encuentre el entero más grande en un arreglo de enteros positivos (En cualquier lenguaje)
+ */
     $miArray = [3, 6, 100, 56, 32, 5, 89, 32];
 
     echo "el array es: ";

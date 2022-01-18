@@ -1,5 +1,9 @@
 <?php 
 
+/**
+ * Escriba una función que reverse una cadena (En cualquier lenguaje) sin usar un método prexistente para esto.
+ */
+
     $str = "12345 67890";
 
     echo "la cadena es: ".$str;
